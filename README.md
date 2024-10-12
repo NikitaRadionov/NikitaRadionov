@@ -81,4 +81,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaRadionov&show_icons=true&locale=en&layout=compact" alt="NikitaRadionov" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRadionov&show_icons=true&locale=en" alt="NikitaRadionov" /></p>
-<img align="center" width="480" height="480" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgycXJzeTVmcXBuYWdqcGQzcnM3cDV5dGI5enJhZzk2OWViNDJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif">
+<img align="middle" width="480" height="480" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgycXJzeTVmcXBuYWdqcGQzcnM3cDV5dGI5enJhZzk2OWViNDJsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif">
