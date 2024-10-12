@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nikita Radionov
 <h3 align="center">Python Backend Developer</h3>
 <img src="https://komarev.com/ghpvc/?username=NikitaRadionov&style=flat-square&color=blue" alt=""/>
-<img align="right" width="480" height="475" src="https://giphy.com/embed/hu9xj9UtxpoY3oytsh">
+<img align="right" width="480" height="475" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWltMml2anpldGFwbmJra29tMzNnMHBxNzQyYnpvc2wxZnlpM2h5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif">
 <!-- <iframe align="right" src="https://giphy.com/embed/hu9xj9UtxpoY3oytsh" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/jr-justrocket-justrocketteam-hu9xj9UtxpoY3oytsh">via GIPHY</a></p>
 - 🌱 I’m currently learning **FastAPI**, **RabbitMQ** -->
 - 👯 I’m looking to collaborate on Open source projects
