@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nikita Radionov
 <h3 align="center">Python Backend Developer</h3>
-
+<iframe align="right" src="https://giphy.com/embed/hu9xj9UtxpoY3oytsh" width="480" height="475" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/jr-justrocket-justrocketteam-hu9xj9UtxpoY3oytsh">via GIPHY</a></p>
 - 🌱 I’m currently learning **FastAPI**, **RabbitMQ**
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about **Django**
@@ -80,3 +80,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaRadionov&show_icons=true&locale=en&layout=compact" alt="kumarankush2003" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRadionov&show_icons=true&locale=en" alt="kumarankush2003" /></p>
+<iframe src="https://giphy.com/embed/G74LKP9zsfLInmz3H6" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-digital-house-certified-tech-developer-G74LKP9zsfLInmz3H6">via GIPHY</a></p>
