@@ -2,7 +2,7 @@
 <h3 align="center">Python Backend Developer</h3>
 <img src="https://komarev.com/ghpvc/?username=NikitaRadionov&style=flat-square&color=blue" alt=""/>
 <img align="right" width="480" height="475" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWltMml2anpldGFwbmJra29tMzNnMHBxNzQyYnpvc2wxZnlpM2h5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif">
-- 🌱 I’m currently learning **FastAPI**, **RabbitMQ** -->
+- 🌱 I’m currently learning **FastAPI**, **RabbitMQ**
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about **Django**
 - 📫 How to reach me: <a href="https://t.me/nikitaradionov"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white"/></a>, mr.wizradionov@mail.ru
